@@ -4,6 +4,12 @@ I'm a software developer with a passion for building scalable web applications. 
 
 When I'm not coding, you'll probably find me on two wheels exploring new roads, or scribbling verses that blend rhythm and reflection. I believe good software, like good poetry, should be both functional and beautiful.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,laravel,php,mysql,tailwind,vscode,react" />
+  </a>
+</p>
+
 ### 💻 Tech I work with
 - Laravel, Node.js, and modern JavaScript frameworks
 - React Native, Expo.Dev frameworks
